@@ -1,0 +1,52 @@
+@media (max-width: 768px) {
+    body {
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+        margin: 0;
+    }
+
+    #div_routines {
+        background-color: red;
+        flex: 1 1 90%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 2.5%;
+    }
+
+    .routine_entry {
+        background-color: beige;
+        margin: 2.5%;
+        width: 80%;
+    }
+
+    #div_buttons {
+        background-color: aqua;
+        display: flex;
+        justify-content: space-around;
+        padding: 10px;
+        height: 10vh
+    }
+
+    #routine_buttons {
+        display: flex;
+        justify-content: space-around;
+        padding: 10px;
+        height: 10vh;
+        width: 20vw;
+    }
+
+    .exercise_entry {
+        display: flex;
+        background-color: beige;
+        justify-content: space-between;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+    .exercise_entry .text_p {
+        width: 80%;
+        text-align: center;
+    }
+}

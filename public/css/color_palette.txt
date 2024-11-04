@@ -1,0 +1,5 @@
+white = #dad7cd
+light_green = #a3b18a
+green = #588157
+dark_green = #3a5a40
+very_dark_green = #344e41

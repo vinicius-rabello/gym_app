@@ -1,0 +1,129 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Estilos para o popup (inicialmente escondido) */
+#popup {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    height: 80%;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    text-align: center;
+}
+
+/* Estilos para o fundo escuro */
+#overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+#exercise_div {
+    max-height: 80%;
+    overflow-y: auto;
+}
+
+.exercise_entry {
+    background-color: blanchedalmond;
+    margin: 2.5%;
+    display: flex;
+}
+
+.exercise_entry input {
+    width: 5%;
+}
+
+:root {
+    --white: #dad7cd;
+    --light_green: #a3b18a;
+    --green: #588157;
+    --dark_green: #3a5a40;
+    --very_dark_green: #344e41;
+}
+
+* { 
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif
+}
+
+@media (max-width: 768px) {
+    body {
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+        margin: 0;
+        padding: 2.5%;
+        background-color: var(--white);
+    }
+
+    #routine_name {
+        background-color: inherit;
+        border: none;
+        height: 5%;
+        font-size: 200%;
+        text-align: center;
+    }
+
+    button {
+        height: 5%;
+        margin-top: 2.5%;
+    }
+
+    #selected_exercises {
+        flex: 1 1 80%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 5% 2.5% 5% 2.5%;
+        background-color: var(--dark_green);
+        border-radius: 5px;
+        margin-top: 2.5%;
+    }
+
+    #popup {
+        background-color: var(--dark_green);
+    }
+
+    .exercise_entry {
+        width: 90%;
+        height: 7.5%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: var(--white);
+        flex-direction: column;
+        padding: 1%;
+        border-radius: 5px;
+    }
+
+    #selected_exercises .exercise_entry {
+        width: 90%;
+        height: 7.5%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: var(--white);
+        padding: 1%;
+        border-radius: 5px;
+    }
+
+    #search_bar {
+        border: none;
+        height: 5%;
+        font-size: 200%;
+        text-align: center;
+        background-color: var(--white);
+        width: 90%;
+    }
+}

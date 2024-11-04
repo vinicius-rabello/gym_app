@@ -1,0 +1,160 @@
+1. Supino reto | Peito | Exercício de empurrar, focado no peitoral | intermediário
+2. Agachamento livre | Pernas | Exercício de agachamento para as pernas | avançado
+3. Levantamento terra | Costas | Levantamento de peso a partir do chão | avançado
+4. Rosca bíceps | Bíceps | Exercício de flexão do braço para o bíceps | novato
+5. Tríceps banco | Tríceps | Exercício de extensão para os tríceps | intermediário
+6. Desenvolvimento de ombro | Ombros | Empurrar peso acima da cabeça | intermediário
+7. Leg press | Pernas | Exercício em máquina para pernas | intermediário
+8. Barra fixa | Costas | Exercício de puxar o corpo usando uma barra | avançado
+9. Prancha abdominal | Core | Exercício isométrico para fortalecimento do core | novato
+10. Avanço | Pernas | Exercício de avanço, trabalhando quadríceps | intermediário
+11. Pulldown costas | Costas | Puxar a barra em máquina, focado nas costas | novato
+12. Crucifixo | Peito | Exercício para abrir o peitoral em máquina | novato
+13. Mesa flexora | Pernas | Exercício de flexão das pernas em máquina | intermediário
+14. Elevação de panturrilha | Pernas | Exercício para fortalecer as panturrilhas | novato
+15. Flexão de braço | Peito | Flexões de braço no solo | novato
+16. Supino inclinado | Peito | Variação do supino, inclinando a bancada | intermediário
+17. Rosca martelo | Bíceps | Cachos com halteres focados no antebraço | novato
+18. Remada com halteres | Costas | Remada com halteres para costas | intermediário
+19. Crunch com cabo | Core | Exercício de crunch abdominal usando cabo | intermediário
+20. Remada curvada | Costas | Remada com barra, focando costas | intermediário
+21. Abdução de quadril | Pernas | Exercício em máquina, focado no glúteo médio | novato
+22. Adução de quadril | Pernas | Exercício em máquina, focado nos adutores | novato
+23. Elevação lateral | Ombros | Elevação dos braços para os lados, focado nos deltoides | intermediário
+24. Elevação frontal | Ombros | Elevação dos braços à frente, focando nos deltoides anteriores | intermediário
+25. Stiff | Pernas | Exercício para isquiotibiais, flexionando o quadril com as pernas semi-rígidas | avançado
+26. Extensão de quadríceps | Pernas | Exercício para quadríceps em máquina | novato
+27. Pull-over | Peito | Exercício que envolve o peitoral e dorsais | intermediário
+28. Afundo | Pernas | Variação do avanço, focando quadríceps e glúteos | intermediário
+29. Crossover | Peito | Exercício de cruzamento de cabos, focado no peitoral | intermediário
+30. Voador | Peito | Exercício em máquina que simula o crucifixo | novato
+31. Levantamento de ombros | Trapézio | Elevação de halteres ou barra, focando trapézio | intermediário
+32. Glúteo na polia | Glúteos | Extensão de quadril em polia para glúteos | intermediário
+33. Elevação de perna na barra | Core | Elevação de pernas em barra fixa, focando abdominais | avançado
+34. Flexão com apoio | Peito | Variação da flexão tradicional, elevando os pés | intermediário
+35. Flexão diamante | Peito | Flexões com as mãos juntas, focando tríceps | intermediário
+36. Pulldown tríceps | Tríceps | Extensão de tríceps em polia | novato
+37. Agachamento sumô | Pernas | Agachamento com pernas afastadas, focando glúteos e adutores | intermediário
+38. Agachamento búlgaro | Pernas | Variação do avanço com um pé elevado | avançado
+39. Levantamento unilateral | Pernas | Levantamento terra com uma perna, focando equilíbrio | avançado
+40. Flexão com joelhos no chão | Peito | Variação da flexão para iniciantes | novato
+41. Rosca concentrada | Bíceps | Exercício isolado para bíceps com halteres | intermediário
+42. Barra paralela | Tríceps | Exercício para tríceps usando barras paralelas | avançado
+43. Chest press | Peito | Exercício em máquina para empurrar peso, focando peitoral | intermediário
+44. Abdominal reverso | Core | Elevação de quadris, focando parte inferior dos abdominais | intermediário
+45. Agachamento com salto | Pernas | Agachamento seguido de salto, trabalhando potência | avançado
+46. Abdominal bicicleta | Core | Exercício dinâmico que simula o pedalar | intermediário
+47. Prancha lateral | Core | Variação da prancha, focando oblíquos | intermediário
+48. Agachamento no Smith | Pernas | Agachamento guiado em máquina Smith | intermediário
+49. Panturrilha no Smith | Pernas | Elevação de panturrilha usando máquina Smith | intermediário
+50. Flexão pike | Ombros | Variação da flexão para trabalhar ombros | avançado
+51. Flexão com uma mão | Peito | Variação avançada da flexão de braço | avançado
+52. Pullover com halter | Peito | Exercício que foca peitoral e dorsais com halter | intermediário
+53. Leg curl | Pernas | Exercício em máquina para isquiotibiais | intermediário
+54. Agachamento frontal | Pernas | Variação do agachamento, com barra à frente | avançado
+55. Tríceps francês | Tríceps | Exercício de extensão de tríceps com barra | intermediário
+56. Remada alta | Trapézio | Remada com barra ou halteres, focando trapézio | intermediário
+57. Levantamento lateral com halteres | Ombros | Elevação de braços com halteres para os lados | intermediário
+58. Stiff com halteres | Pernas | Flexão do quadril com halteres, focando isquiotibiais | intermediário
+59. Prancha com toque de ombro | Core | Variação da prancha, tocando os ombros alternadamente | intermediário
+60. Tesoura abdominal | Core | Movimento alternado de pernas para abdominais | intermediário
+61. Extensão de tríceps no banco | Tríceps | Exercício de tríceps com banco e halteres | intermediário
+62. Agachamento hack | Pernas | Variação de agachamento em máquina | intermediário
+63. Extensão de panturrilha sentado | Pernas | Exercício de panturrilha na máquina, sentado | intermediário
+64. Hip thrust | Glúteos | Elevação de quadril com barra, focando glúteos | avançado
+65. Swing com kettlebell | Pernas | Movimento balístico com kettlebell, focando glúteos | intermediário
+66. Rosca direta | Bíceps | Exercício clássico para bíceps com barra | intermediário
+67. Levantamento com corda no pulley | Costas | Puxada de corda no pulley, focando dorsais | intermediário
+68. Flexão militar | Peito | Flexão tradicional com ênfase no peitoral e ombros | intermediário
+69. Voador inverso | Costas | Exercício para músculos das costas em máquina | intermediário
+70. Mergulho em banco | Tríceps | Exercício de tríceps com apoio no banco | intermediário
+71. Rosca concentrada | Bíceps | Exercício isolado para o bíceps | intermediário
+72. Alongamento dinâmico | Geral | Aquecimento e mobilidade muscular | novato
+73. Círculos de braço | Ombros | Aquecimento para os ombros | novato
+74. Ponte de glúteo | Glúteos | Elevação de quadril com foco nos glúteos | novato
+75. Flexão de dedos | Antebraço | Exercício para fortalecer os antebraços | intermediário
+76. Russian twist | Core | Rotação de tronco sentado, focando os oblíquos | intermediário
+77. Elbow plank | Core | Prancha com apoio dos cotovelos | intermediário
+78. Box jump | Pernas | Salto em caixa para potência nas pernas | avançado
+79. Pike push-up | Ombros | Flexão vertical para foco nos ombros | intermediário
+80. Side lunges | Pernas | Avanço lateral, focando adutores e glúteos | intermediário
+81. Wall sit | Pernas | Isometria, sentar encostado na parede | intermediário
+82. Saltos pliométricos | Pernas | Saltos explosivos para trabalhar força | avançado
+83. Renegade row | Core | Remada com halteres, focando core e dorsais | avançado
+84. Mountain climbers | Core | Exercício dinâmico, simulação de escalada | intermediário
+85. Burpee | Geral | Exercício funcional para todo o corpo | intermediário
+86. Pullover unilateral | Costas | Variação do pull-over com um braço | intermediário
+87. Abdominal canivete | Core | Elevação simultânea de pernas e tronco | avançado
+88. Prancha com rotação | Core | Prancha dinâmica com rotação de tronco | intermediário
+89. Rollout de abdômen | Core | Usar roda de abdômen para extensão e flexão do tronco | avançado
+90. Flexão aranha | Peito | Variação da flexão com rotação dos quadris | intermediário
+91. Flexão diamante | Peito | Flexões com as mãos próximas | intermediário
+92. Sissy squat | Pernas | Variação de agachamento focada no quadríceps | avançado
+93. Prancha com levantamento de perna | Core | Prancha com elevação alternada de pernas | intermediário
+94. Pistol squat | Pernas | Agachamento com uma perna | avançado
+95. Flexão de punho | Antebraço | Exercício para fortalecer os antebraços | intermediário
+96. Flexão hindu | Peito | Flexão com movimento fluído, estilo ioga | intermediário
+97. Kickback de tríceps | Tríceps | Extensão de tríceps com halteres | intermediário
+98. Agachamento com salto | Pernas | Agachamento seguido de salto para potência | avançado
+99. Flexão diamante | Peito | Flexão com as mãos em formato de diamante | intermediário
+100. Flexão escalonada | Peito | Flexão com mãos em diferentes alturas | intermediário
+101. Levantamento com kettlebell | Pernas | Movimento balístico com kettlebell | intermediário
+102. Agachamento frontal com halteres | Pernas | Variação do agachamento frontal com halteres | intermediário
+103. Elevação de ombro com barra | Ombros | Elevação de barra para ombros | intermediário
+104. Kickbacks de perna | Glúteos | Extensão de quadril em máquina ou polia | intermediário
+105. Isometria de panturrilha | Panturrilha | Manter a panturrilha contraída em posição elevada | intermediário
+106. Puxada neutra | Costas | Puxada com pegada neutra, focando dorsais | intermediário
+107. Tríceps na polia | Tríceps | Extensão de tríceps em polia | intermediário
+108. Rosca alternada | Bíceps | Alternar roscas com cada braço, usando halteres | intermediário
+109. Agachamento com peso corporal | Pernas | Agachamento apenas com o peso do corpo | novato
+110. Prancha com elevação lateral | Core | Prancha com elevação lateral de perna | intermediário
+111. Elevação lateral com kettlebell | Ombros | Elevação de braços usando kettlebell | intermediário
+112. Agachamento com barra baixa | Pernas | Variação do agachamento com barra mais baixa nas costas | intermediário
+113. Puxada com corda | Costas | Puxada de corda para focar dorsais e trapézios | intermediário
+114. Extensão de quadril com halteres | Glúteos | Elevação de quadril usando halteres | intermediário
+115. Rosca scott | Bíceps | Rosca em banco scott, isolando o bíceps | intermediário
+116. Extensão de panturrilha em pé | Pernas | Exercício de panturrilha em pé, em máquina | intermediário
+117. Flexão de pernas sentado | Pernas | Flexão de pernas em máquina, sentado | intermediário
+118. Prancha com toque de ombro | Core | Variação da prancha com toque alternado nos ombros | intermediário
+119. Stiff com barra | Pernas | Exercício de isquiotibiais, flexionando o quadril com barra | intermediário
+120. Flexão de joelhos | Core | Flexão de joelhos usando uma bola suíça | intermediário
+121. Prancha alternada | Core | Prancha com alternância de mãos e pés | intermediário
+122. Russian kettlebell swing | Pernas | Movimento de balança com kettlebell | intermediário
+123. Salto agachamento | Pernas | Agachamento seguido de salto para potência | avançado
+124. Pull-up | Costas | Elevação do corpo usando uma barra | avançado
+125. Mergulho em barras paralelas | Peito | Exercício para peito e tríceps, em barras paralelas | avançado
+126. Elevação de perna suspensa | Core | Elevação de pernas em barra, focando abdominais | avançado
+127. Prancha frontal | Core | Exercício isométrico, mantendo o corpo reto | novato
+128. Alongamento borboleta | Pernas | Alongamento da região interna das coxas | novato
+129. Alongamento de quadríceps | Pernas | Alongar quadríceps puxando o pé em direção ao glúteo | novato
+130. Alongamento de panturrilha | Pernas | Alongar panturrilha em degrau ou parede | novato
+131. Alongamento de isquiotibiais | Pernas | Alongar isquiotibiais inclinando-se à frente | novato
+132. Alongamento dos ombros | Ombros | Alongamento passivo para ombros | novato
+133. Alongamento dos tríceps | Tríceps | Alongar tríceps puxando o braço acima da cabeça | novato
+134. Alongamento lateral do tronco | Core | Alongar oblíquos inclinando-se lateralmente | novato
+135. Abdominal prancha | Core | Exercício isométrico de prancha para abdominais | novato
+136. Crunch oblíquo | Core | Crunch focando nos oblíquos, com rotação do tronco | intermediário
+137. Elevação lateral com cabos | Ombros | Elevação lateral usando cabos, para focar deltoides | intermediário
+138. Flexão com bola suíça | Peito | Flexão de braço com suporte de bola suíça | intermediário
+139. Crunch com bola | Core | Crunch abdominal usando bola suíça | intermediário
+140. Leg raise | Core | Elevação de pernas, focando abdominais inferiores | intermediário
+141. Flexão com elevação de perna | Peito | Flexão tradicional com elevação alternada das pernas | intermediário
+142. Extensão de pernas sentado | Pernas | Extensão de pernas em máquina, sentado | intermediário
+143. Flexão explosiva | Peito | Flexão de braços com movimento explosivo | avançado
+144. Remada com halteres | Costas | Exercício de remada para as costas com halteres | intermediário
+145. Remada curvada com barra | Costas | Remada com barra para fortalecimento dos dorsais | intermediário
+146. Supino fechado | Peito | Variação do supino, com pegada fechada, para trabalhar tríceps | intermediário
+147. Rosca direta no cabo | Bíceps | Rosca bíceps usando cabos | intermediário
+148. Tríceps testa com barra | Tríceps | Exercício de tríceps com barra, deitado | intermediário
+149. Rosca alternada com halteres | Bíceps | Alternância de rosca com halteres | intermediário
+150. Rosca concentrada com halteres | Bíceps | Rosca isolada com halteres | intermediário
+151. Rosca martelo com halteres | Bíceps | Variação da rosca com pegada neutra | intermediário
+152. Remada unilateral com halteres | Costas | Remada com um haltere, focando dorsais | intermediário
+153. Supino com halteres | Peito | Supino com halteres para peito e ombros | intermediário
+154. Flexão de joelhos na bola suíça | Core | Flexão de joelhos, puxando uma bola suíça para o corpo | intermediário
+155. Prancha com bola suíça | Core | Variação da prancha, apoiando os pés na bola suíça | intermediário
+156. Agachamento sumô com halteres | Pernas | Variação do agachamento com halteres | intermediário
+157. Levantamento terra com barra | Pernas | Exercício de levantamento de peso, focando costas e pernas | avançado
+158. Flexão com apoio | Peito | Variação da flexão com os pés elevados | intermediário
+159. Agachamento com barra | Pernas | Agachamento com barra nas costas | avançado
+160. Flexão em anilhas | Peito | Flexão usando anilhas para variar a altura das mãos | intermediário

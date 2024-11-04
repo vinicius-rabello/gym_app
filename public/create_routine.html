@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/create_routine.css">
+</head>
+<body>
+    <label for="routine_name"></label>
+    <input type="text" id="routine_name" placeholder="Nome do Treino">
+    <div id="selected_exercises"></div>
+    <button onclick="openPopup()">Adicionar Exercício</button>
+    <button onclick="saveRoutine()">Salvar Treino</button>
+    <div id="overlay" onclick="closePopup()"></div>
+    <div id="popup">
+        <label for="search_bar"></label>
+        <input type="text" id="search_bar" value="" oninput=searchExercises(this.value)>
+        <div id="exercise_div"></div>
+        <button id="close_btn" onclick="closePopup()">Fechar</button>
+    </div>
+</body>
+<script src="js/createRoutineScript.js"></script>
+</html>

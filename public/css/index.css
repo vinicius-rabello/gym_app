@@ -1,0 +1,77 @@
+:root {
+    --white: #dad7cd;
+    --light_green: #a3b18a;
+    --green: #588157;
+    --dark_green: #3a5a40;
+    --very_dark_green: #344e41;
+}
+
+* { 
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif
+}
+
+@media (max-width: 768px) {
+    body {
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+        margin: 0;
+        padding: 2.5%;
+        background-color: var(--white);
+    }
+
+    #div_routines {
+        flex: 1 1 90%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 5% 2.5% 5% 2.5%;
+        background-color: var(--dark_green);
+        border-radius: 5px;
+    } 
+
+    #div_routines a {
+        margin-bottom: 5%;
+        width: 90%;
+        background-color: var(--white);
+        border-radius: 5px;
+        text-decoration: none;
+        padding: 0 3.5% 0.5% 3.5%;
+        color: black;
+    }
+
+    .routine_entry p {
+        color: black;
+        font-size: larger;
+    }
+
+    .routine_entry footer {
+        color: black;
+        text-align: end;
+        font-size: small;
+    }
+
+    #create_routine_a {
+        width: 90%;
+        height: 7.5%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: var(--white);
+    }
+
+    #div_buttons {
+        display: flex;
+        justify-content: space-around;
+        padding: 10px;
+        height: 10vh
+    }
+
+    #routine_buttons {
+        display: flex;
+        justify-content: space-around;
+        padding: 10px;
+        height: 10vh;
+        background-color: var(--dark_green);
+    }
+}
